@@ -1,0 +1,6 @@
+[submodule "Part-E"]
+	path = Part-E
+	url = https://github.com/ria1809/Part-E.git
+[submodule "Lightsoff_final"]
+	path = Lightsoff_final
+	url = https://github.com/ria1809/Lightsoff_final.git
